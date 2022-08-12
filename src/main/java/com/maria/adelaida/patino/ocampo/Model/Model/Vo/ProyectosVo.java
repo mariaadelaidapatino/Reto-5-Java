@@ -41,7 +41,7 @@ public class ProyectosVo {
     }    
     @Override
     public String toString() {
-        return String.format("%3d %-25s %7d %-15s %-15s", id, constructora, habitaciones, banco, ciudad);
+        return String.format("%3d %-25s %7d %-20s %-15s", id, constructora, habitaciones, banco, ciudad);
     }
     
 

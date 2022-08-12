@@ -35,7 +35,7 @@ public class ProyectosDao {
                 objeto.setId(rset.getInt("ID_Proyecto"));
                 objeto.setConstructora(rset.getString("Constructora"));
                 objeto.setHabitaciones(rset.getInt("Numero_Habitaciones"));
-                objeto.setBanco(rset.getString("Ciudad"));
+                objeto.setCiudad(rset.getString("Ciudad"));
                 respuesta.add(objeto);
             }
 
