@@ -350,6 +350,4 @@
 <error line="86" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
 <error line="90" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
 </file>
-<file name="C:\Users\maria\Desktop\Proyectosciclo2\Retos\reto5\src\test\java\com\maria\adelaida\patino\ocampo\AppTest.java">
-</file>
 </checkstyle>
